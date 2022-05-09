@@ -1,7 +1,6 @@
 <h1 align="center">Oi Tudo bem? Eu sou o Leandro Lopes 😃️</h1>
 
-<p align="center">Seja bem-vindo, sou estudante de analise e desenvolvimento de sistemas, apaixonado por tecnologia.
-Procuro sempre construir produtos e funcionalidades visando solucionar problemas reais das pessoas com inovação e criatividade.</p>
+<p align="center">Seja bem-vindo, sou estudante de analise e desenvolvimento de sistemas e estou em constante aprendizado como Desenvolvedor front-end, Web designer e UX/Ui designer. apaixonado por tecnologia, procuro sempre construir produtos e funcionalidades visando solucionar problemas reais das pessoas com inovação e criatividade.</p>
 
 <div align="center">
   <a href="https://github.com/Leandrocls">
