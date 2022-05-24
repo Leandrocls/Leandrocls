@@ -1,6 +1,7 @@
-<h1 align="center">Oi Tudo bem? Eu sou o Leandro Lopes 😃️</h1>
+<h1 align="center">Oi Tudo bem? Eu sou o Leandro Lopes, mas pode me chamar de Leo.👨‍💻</h1>
 
-<p align="center">Seja bem-vindo, sou estudante de analise e desenvolvimento de sistemas e estou em constante aprendizado como Desenvolvedor front-end. apaixonado por tecnologia, procuro sempre construir produtos e funcionalidades visando solucionar problemas reais das pessoas com inovação e criatividade.</p>
+<p align="center">Seja bem-vindo(a), sou desenvolvedor Front-End e graduando no curso de analise e desenvolvimento de sistemas.<br/> Trabalhei a mais de 7 anos na área de operações em shopping center, atuando com gestão de pessoas, no acompanhamento de desempenho dos colaboradores, aplicação de treinamentos, a fim de garantir a melhoria contínua do fluxo operacional, além de experiências na gestão de controle de expedição, recebimento, armazenamento, distribuição de mercadorias e roteirização de entrega.<br/>
+Atualmente estou focado em minha transição de carreira na área de tecnologia a qual sou apaixonado pelo desenvolvimento web voltado para o front-end, onde procuro sempre construir produtos e funcionalidades visando solucionar problemas reais das pessoas com inovação e criatividade.</p>
 
 <div align="center">
   <a href="https://github.com/Leandrocls">
@@ -8,7 +9,7 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandrocls&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<h2>Tecnologias utilizadas no dia a dia:</h2>
+<h2>Tecnologias utilizadas no dia a dia e em constante desenvolvimento:</h2>
 
 <div style="Display: inline_block"><br/>
     <img align="center" alt="HTML5" SRC="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -20,7 +21,7 @@
     <img align="center" alt="Figma" SRC="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </div><br/>
 
-<h2>Meus contatos:</h2></br>
+<h3>Vamos bater um papo? Pode me chamar quando quiser, estarei disponível contatos abaixo:👇</h3></br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leandrocls/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-campos-lopes/)
