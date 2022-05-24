@@ -1,6 +1,6 @@
 <h1 align="center">Oi Tudo bem? Eu sou o Leandro Lopes, mas pode me chamar de Leo.👨‍💻</h1>
 
-<p align="center">Seja bem-vindo(a), sou desenvolvedor Front-End e graduando no curso de analise e desenvolvimento de sistemas.<br/> Trabalhei a mais de 7 anos na área de operações em shopping center, atuando com gestão de pessoas, no acompanhamento de desempenho dos colaboradores, aplicação de treinamentos, a fim de garantir a melhoria contínua do fluxo operacional, além de experiências na gestão de controle de expedição, recebimento, armazenamento, distribuição de mercadorias e roteirização de entrega.<br/>
+<p>Seja bem-vindo(a), sou desenvolvedor Front-End e graduando no curso de analise e desenvolvimento de sistemas.<br/> Trabalhei a mais de 7 anos na área de operações em shopping center, atuando com gestão de pessoas, no acompanhamento de desempenho dos colaboradores, aplicação de treinamentos, a fim de garantir a melhoria contínua do fluxo operacional.<br/>
 Atualmente estou focado em minha transição de carreira na área de tecnologia a qual sou apaixonado pelo desenvolvimento web voltado para o front-end, onde procuro sempre construir produtos e funcionalidades visando solucionar problemas reais das pessoas com inovação e criatividade.</p>
 
 <div align="center">
