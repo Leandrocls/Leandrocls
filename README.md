@@ -1,7 +1,7 @@
-<h1 align="center">Oi Tudo bem? Eu sou o Leandro Lopes, mas pode me chamar de Leo.👨‍💻</h1>
+<h1 align="center">Oi Tudo bem? Sou o Leandro Lopes, mas pode me chamar de Leo.👨‍💻</h1>
 
-<p>Seja bem-vindo(a), sou desenvolvedor Front-End e graduando no curso de analise e desenvolvimento de sistemas.<br/> Trabalhei a mais de 7 anos na área de operações em shopping center, atuando com gestão de pessoas, no acompanhamento de desempenho dos colaboradores, aplicação de treinamentos, a fim de garantir a melhoria contínua do fluxo operacional.<br/>
-Atualmente estou focado em minha transição de carreira na área de tecnologia a qual sou apaixonado pelo desenvolvimento web voltado para o front-end, onde procuro sempre construir produtos e funcionalidades visando solucionar problemas reais das pessoas com inovação e criatividade.</p>
+<p>Seja bem-vindo(a), sou desenvolvedor Front-End e graduando no curso de analise e desenvolvimento de sistemas.<br/> Trabalhei a mais de 7 anos na área de operações em shopping center e atualmente estou focado em minha transição de carreira na área de tecnologia a qual sou apaixonado pelo desenvolvimento web voltado ao front-end, onde procuro sempre construir produtos e funcionalidades visando solucionar problemas reais das pessoas com inovação e criatividade.</p><br/>
+
 
 <div align="center">
   <a href="https://github.com/Leandrocls">
@@ -21,7 +21,7 @@ Atualmente estou focado em minha transição de carreira na área de tecnologia 
     <img align="center" alt="Figma" SRC="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </div><br/>
 
-<h3>Vamos bater um papo? Pode me chamar quando quiser, estarei disponível contatos abaixo:👇</h3></br>
+<h3>Vamos bater um papo? Pode me chamar quando quiser, estarei disponível nos contatos abaixo:👇</h3></br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leandrocls/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-campos-lopes/)
