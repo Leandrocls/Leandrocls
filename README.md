@@ -1,6 +1,8 @@
-<h1 align="center">Oi Tudo bem? Sou o Leandro Lopes, mas pode me chamar de Leo.👨‍💻</h1>
+<h1 align="center">Sou o Leandro Lopes, mas pode me chamar de Leo.👨‍💻</h1>
 
-<p>Seja bem-vindo(a), sou desenvolvedor Front-End e graduando no curso de analise e desenvolvimento de sistemas.<br/> Trabalhei a mais de 7 anos na área de operações em shopping center e atualmente estou focado em minha transição de carreira na área de tecnologia a qual sou apaixonado pelo desenvolvimento web voltado ao front-end, onde procuro sempre construir produtos e funcionalidades visando solucionar problemas reais das pessoas com inovação e criatividade.</p><br/>
+<p>Seja bem-vindo(a), sou desenvolvedor Front-End e graduando no curso de analise e desenvolvimento de sistemas.<br/> Trabalhei a mais de 7 anos na área de operações em shopping center, Como Desenvolvedor Front-end, possuo pouco mais de 1 anos de experiência, com tecnologias como JavaScript | HTML | CSS | BootStrap | Git | Github | Figma | Adobe XD, atuando em projetos como freelancer e pessoais no desenvolvimento de interfaces de sites e aplicações para web, garantindo o desempenho visual do site ou aplicação, assegurando que os elementos estejam bem projetados, proporcionando uma boa velocidade de processamento das informações visuais pelos diferentes hardwares, focando bastante na experiência do usuário e acessibilidade.
+
+Estou em constante desenvolvimento, acrescentando cada vez mais conhecimento das tecnologias React JS | SQL | MongoDB | Node JS | Cypress | Docker a qual iram complementar ainda mais o meu leque de ferramentas para um bom desenvolvimento.</p><br/>
 
 
 <div align="center">
