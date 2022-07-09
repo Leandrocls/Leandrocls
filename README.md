@@ -1,11 +1,10 @@
-<h1 align="center">Sou o Leandro Lopes, mas pode me chamar de Leo.👨‍💻</h1>
+<h1 align="center">Olá! Sou Leandro Lopes, mas pode me chamar de "Léo"!👨‍💻</h1>
 
-<p>Seja bem-vindo(a), sou desenvolvedor Front-end e graduando no curso de análise e desenvolvimento de sistemas pela Universidade Estácio de Sá. 
+<p>Seja bem-vindo(a), Desenvolvedor front-end e graduando em análise e desenvolvimento de sistemas. Apaixonado por código e novas tecnologias, sempre focado na experiência do usuário e resolução de problemas. 
 
-Trabalhei a mais de 7 anos na área de operações em shopping center e atualmente estou em transição de carreira. Como Desenvolvedor Front-end, possuo pouco mais de 1 ano de experiência, atuando com tecnologias como: JavaScript | HTML | CSS | BootStrap | Git | Github | Figma | Adobe XD, desenvolvendo projetos como freelancer e pessoais, na construção de interfaces de sites e aplicações para web, garantindo o máximo de desempenho visual do site ou aplicação, assegurando que os elementos estejam bem projetados, proporcionando uma boa velocidade de processamento das informações visuais pelos diferentes hardwares, focando bastante na experiência do usuário e acessibilidade.
+Atuo no desenvolvimento web desde 2021 com foco no front-end, trabalhando com tecnologias como JavaScript | HTML5 | CSS3 | BootStrap5 | Git | Github | Figma, atuando em alguns projetos como freelancer e pessoais no desenvolvimento de interfaces de sites e aplicações para web, facilitando a usabilidade, assegurando que os elementos estejam bem projetados, proporcionando uma boa velocidade de processamento das informações visuais pelos diferentes hardwares, focando na experiência do usuário e acessibilidade.
 
-Estou em constante desenvolvimento, acrescentando cada vez mais conhecimento das tecnologias ReactJS | SQL | MongoDB | NodeJS | Cypress | Docker a qual iram complementar ainda mais o meu leque de ferramentas para um bom desenvolvimento.</p><br/>
-
+Estou em constante desenvolvimento, acrescentando cada vez mais conhecimento das tecnologias React JS | SASS | Tailwind | SQL | MongoDB | Node JS | Cypress | Docker, a qual iram complementar ainda mais o meu leque de ferramentas para um excelente desenvolvimento.</p><br/>
 
 <div align="center">
   <a href="https://github.com/Leandrocls">
