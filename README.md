@@ -1,10 +1,10 @@
-<h1 align="center">Olá! Sou Leandro Lopes, mas pode me chamar de "Léo"!👨‍💻</h1>
+<h1 align="center">Hi! I'm Leandro Lopes, but you can call me "Léo"!👨‍💻</h1>
 
-<p>Seja bem-vindo(a), Desenvolvedor front-end e graduando em análise e desenvolvimento de sistemas. Apaixonado por código e novas tecnologias, sempre focado na experiência do usuário e resolução de problemas. 
+<p>Welcome, Front-end web developer and majoring in systems analysis and development. Passionate about code and new technologies, always focused on user experience and problem solving.
 
-Atuo no desenvolvimento web desde 2021 com foco no front-end, trabalhando com tecnologias como JavaScript | HTML5 | CSS3 | BootStrap5 | Git | Github | Figma, atuando em alguns projetos como freelancer e pessoais no desenvolvimento de interfaces de sites e aplicações para web, facilitando a usabilidade, assegurando que os elementos estejam bem projetados, proporcionando uma boa velocidade de processamento das informações visuais pelos diferentes hardwares, focando na experiência do usuário e acessibilidade.
+I have been working in web development since 2021 with a focus on the front-end, working with technologies such as JavaScript | HTML5 | CSS3 | BootStrap5 | Git | Github | Figma, working in some projects as a freelancer and personal in the development of website interfaces and web applications, facilitating usability, ensuring that the elements are well designed, providing a good processing speed of visual information by different hardware, focusing on the user experience. user and accessibility.
 
-Estou em constante desenvolvimento, acrescentando cada vez mais conhecimento das tecnologias React JS | SASS | Tailwind | SQL | MongoDB | Node JS | Cypress | Docker, a qual iram complementar ainda mais o meu leque de ferramentas para um excelente desenvolvimento.</p><br/>
+I'm constantly developing, adding more and more knowledge of React JS technologies | SASS | Tailwind | SQL | MongoDB | Node JS | Cypress | Docker, which will further complement my range of tools for excellent development.</p><br/>
 
 <div align="center">
   <a href="https://github.com/Leandrocls">
@@ -12,7 +12,7 @@ Estou em constante desenvolvimento, acrescentando cada vez mais conhecimento das
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandrocls&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<h2>Tecnologias utilizadas no dia a dia e em constante desenvolvimento:</h2>
+<h2>Technologies used on a daily basis and in constant development:</h2>
 
 <div style="Display: inline_block"><br/>
     <img align="center" alt="HTML5" SRC="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -24,7 +24,7 @@ Estou em constante desenvolvimento, acrescentando cada vez mais conhecimento das
     <img align="center" alt="Figma" SRC="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </div><br/>
 
-<h3>Vamos bater um papo? Pode me chamar quando quiser, estarei disponível nos contatos abaixo:👇</h3></br>
+<h3>Let's chat? You can call me whenever you want, I will be available in the contacts below:👇</h3></br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leandrocls/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-campos-lopes/)
